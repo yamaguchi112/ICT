@@ -21,3 +21,6 @@ jamovi (Version 2.6.45.0): アンケートデータの統計解析（主成分�
 
 ## メタバース村松城紹介動画リンク
 https://youtu.be/eRLCjuZq9tM
+
+## Clusterで構築したメタバース村松城のリンク
+https://cluster.mu/w/s/a9c3aab3-48f5-4b97-bacd-49b964b0e38a/entry
